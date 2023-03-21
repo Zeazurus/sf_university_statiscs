@@ -1,4 +1,4 @@
-package org.example;
+package model;
 
 public class Student {
     String fullName, universityId;
@@ -10,6 +10,10 @@ public class Student {
         this.universityId = universityId;
         this.currentCourseNumber = currentCourseNumber;
         this.avgExamScore = avgExamScore;
+    }
+
+    public Student() {
+
     }
 
     public String getFullName() {

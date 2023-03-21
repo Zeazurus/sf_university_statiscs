@@ -1,16 +1,22 @@
-package org.example;
+package model;
+
+import enums.student.StudyProfile;
 
 public class University {
-    String id, fullname, shortname;
+    String id, fullName, shortName;
     int yearOfFoundation;
     StudyProfile mainProfile;
 
-    public University(String id, String fullname, String shortname, int yearOfFoundation, StudyProfile mainProfile) {
+    public University(String id, String fullName, String shortName, int yearOfFoundation, StudyProfile mainProfile) {
         this.id = id;
-        this.fullname = fullname;
-        this.shortname = shortname;
+        this.fullName = fullName;
+        this.shortName = shortName;
         this.yearOfFoundation = yearOfFoundation;
         this.mainProfile = mainProfile;
+    }
+
+    public University() {
+
     }
 
     public String getId() {
@@ -21,20 +27,20 @@ public class University {
         this.id = id;
     }
 
-    public String getFullname() {
-        return fullname;
+    public String getFullName() {
+        return fullName;
     }
 
-    public void setFullname(String fullname) {
-        this.fullname = fullname;
+    public void setFullName(String fullName) {
+        this.fullName = fullName;
     }
 
-    public String getShortname() {
-        return shortname;
+    public String getShortName() {
+        return shortName;
     }
 
-    public void setShortname(String shortname) {
-        this.shortname = shortname;
+    public void setShortName(String shortName) {
+        this.shortName = shortName;
     }
 
     public int getYearOfFoundation() {
@@ -57,8 +63,8 @@ public class University {
     public String toString() {
         return "\nУниверситет" +
                 "\nКод='" + id + '\'' +
-                ", \nПолное название='" + fullname + '\'' +
-                ", \nСокращенное название='" + shortname + '\'' +
+                ", \nПолное название='" + fullName + '\'' +
+                ", \nСокращенное название='" + shortName + '\'' +
                 ", \nГод основания=" + yearOfFoundation +
                 ", \nПрофиль=" + mainProfile.getProfileName();
     }
