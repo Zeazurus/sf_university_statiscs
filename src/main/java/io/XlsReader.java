@@ -13,9 +13,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class XlsxReader {
+public class XlsReader {
 
-    private XlsxReader() {
+    private XlsReader() {
     }
 
     public static List<University> readUniversities(String filePath) throws IOException {
