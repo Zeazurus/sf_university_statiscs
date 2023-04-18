@@ -1,0 +1,3960 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T16:37:50.021098500Z</date>
+  <millis>1681835870021</millis>
+  <nanos>98500</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущена, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T16:37:50.066212200Z</date>
+  <millis>1681835870066</millis>
+  <nanos>212200</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T16:37:50.824276800Z</date>
+  <millis>1681835870824</millis>
+  <nanos>276800</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T16:37:50.826285500Z</date>
+  <millis>1681835870826</millis>
+  <nanos>285500</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T16:37:50.852816500Z</date>
+  <millis>1681835870852</millis>
+  <nanos>816500</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T16:37:50.854823600Z</date>
+  <millis>1681835870854</millis>
+  <nanos>823600</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T16:37:50.859814600Z</date>
+  <millis>1681835870859</millis>
+  <nanos>814600</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T16:37:50.860320700Z</date>
+  <millis>1681835870860</millis>
+  <nanos>320700</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T16:37:50.957529800Z</date>
+  <millis>1681835870957</millis>
+  <nanos>529800</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T16:37:50.962043800Z</date>
+  <millis>1681835870962</millis>
+  <nanos>43800</nanos>
+  <sequence>9</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T16:38:03.645323600Z</date>
+  <millis>1681835883645</millis>
+  <nanos>323600</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущена, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T16:38:03.685392300Z</date>
+  <millis>1681835883685</millis>
+  <nanos>392300</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T16:38:04.427265900Z</date>
+  <millis>1681835884427</millis>
+  <nanos>265900</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T16:38:04.429265500Z</date>
+  <millis>1681835884429</millis>
+  <nanos>265500</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T16:38:04.456428Z</date>
+  <millis>1681835884456</millis>
+  <nanos>428000</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T16:38:04.457416300Z</date>
+  <millis>1681835884457</millis>
+  <nanos>416300</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T16:38:04.462930800Z</date>
+  <millis>1681835884462</millis>
+  <nanos>930800</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T16:38:04.463931300Z</date>
+  <millis>1681835884463</millis>
+  <nanos>931300</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T16:38:04.567642600Z</date>
+  <millis>1681835884567</millis>
+  <nanos>642600</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T16:38:04.573157600Z</date>
+  <millis>1681835884573</millis>
+  <nanos>157600</nanos>
+  <sequence>9</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T17:27:26.875811300Z</date>
+  <millis>1681838846875</millis>
+  <nanos>811300</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущена, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:27:26.922838Z</date>
+  <millis>1681838846922</millis>
+  <nanos>838000</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:27:27.788998400Z</date>
+  <millis>1681838847788</millis>
+  <nanos>998400</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:27:27.817575900Z</date>
+  <millis>1681838847817</millis>
+  <nanos>575900</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:27:27.854911Z</date>
+  <millis>1681838847854</millis>
+  <nanos>911000</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:27:27.865442Z</date>
+  <millis>1681838847865</millis>
+  <nanos>442000</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T17:27:27.874952300Z</date>
+  <millis>1681838847874</millis>
+  <nanos>952300</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T17:27:27.881495600Z</date>
+  <millis>1681838847881</millis>
+  <nanos>495600</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T17:27:27.978712300Z</date>
+  <millis>1681838847978</millis>
+  <nanos>712300</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:27:27.995753Z</date>
+  <millis>1681838847995</millis>
+  <nanos>753000</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T17:28:54.788383900Z</date>
+  <millis>1681838934788</millis>
+  <nanos>383900</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущена, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:28:54.828522500Z</date>
+  <millis>1681838934828</millis>
+  <nanos>522500</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:28:55.543584100Z</date>
+  <millis>1681838935543</millis>
+  <nanos>584100</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:28:55.545582700Z</date>
+  <millis>1681838935545</millis>
+  <nanos>582700</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:28:55.573721800Z</date>
+  <millis>1681838935573</millis>
+  <nanos>721800</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:28:55.574716Z</date>
+  <millis>1681838935574</millis>
+  <nanos>716000</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T17:28:55.580223900Z</date>
+  <millis>1681838935580</millis>
+  <nanos>223900</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T17:28:55.581228300Z</date>
+  <millis>1681838935581</millis>
+  <nanos>228300</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T17:28:55.675397Z</date>
+  <millis>1681838935675</millis>
+  <nanos>397000</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:28:55.687626900Z</date>
+  <millis>1681838935687</millis>
+  <nanos>626900</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T17:31:38.124910900Z</date>
+  <millis>1681839098124</millis>
+  <nanos>910900</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:31:38.169566400Z</date>
+  <millis>1681839098169</millis>
+  <nanos>566400</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:31:38.908258700Z</date>
+  <millis>1681839098908</millis>
+  <nanos>258700</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:31:38.910258700Z</date>
+  <millis>1681839098910</millis>
+  <nanos>258700</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:31:38.939391200Z</date>
+  <millis>1681839098939</millis>
+  <nanos>391200</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:31:38.940896Z</date>
+  <millis>1681839098940</millis>
+  <nanos>896000</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T17:31:38.946916100Z</date>
+  <millis>1681839098946</millis>
+  <nanos>916100</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T17:31:38.947909300Z</date>
+  <millis>1681839098947</millis>
+  <nanos>909300</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T17:31:39.045601500Z</date>
+  <millis>1681839099045</millis>
+  <nanos>601500</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:31:39.051853300Z</date>
+  <millis>1681839099051</millis>
+  <nanos>853300</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T17:32:26.195978200Z</date>
+  <millis>1681839146195</millis>
+  <nanos>978200</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:32:26.238628700Z</date>
+  <millis>1681839146238</millis>
+  <nanos>628700</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:32:26.997598400Z</date>
+  <millis>1681839146997</millis>
+  <nanos>598400</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:32:26.999596500Z</date>
+  <millis>1681839146999</millis>
+  <nanos>596500</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:32:27.028922400Z</date>
+  <millis>1681839147028</millis>
+  <nanos>922400</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:32:27.030428700Z</date>
+  <millis>1681839147030</millis>
+  <nanos>428700</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T17:32:27.035434900Z</date>
+  <millis>1681839147035</millis>
+  <nanos>434900</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T17:32:27.036434200Z</date>
+  <millis>1681839147036</millis>
+  <nanos>434200</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T17:32:27.139428900Z</date>
+  <millis>1681839147139</millis>
+  <nanos>428900</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:32:27.145954300Z</date>
+  <millis>1681839147145</millis>
+  <nanos>954300</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T17:33:34.138275900Z</date>
+  <millis>1681839214138</millis>
+  <nanos>275900</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:33:34.180400100Z</date>
+  <millis>1681839214180</millis>
+  <nanos>400100</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:33:34.901571700Z</date>
+  <millis>1681839214901</millis>
+  <nanos>571700</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:33:34.914085500Z</date>
+  <millis>1681839214914</millis>
+  <nanos>85500</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:33:34.942626300Z</date>
+  <millis>1681839214942</millis>
+  <nanos>626300</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:33:34.944627300Z</date>
+  <millis>1681839214944</millis>
+  <nanos>627300</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T17:33:34.950625900Z</date>
+  <millis>1681839214950</millis>
+  <nanos>625900</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T17:33:34.952136200Z</date>
+  <millis>1681839214952</millis>
+  <nanos>136200</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T17:33:35.050541800Z</date>
+  <millis>1681839215050</millis>
+  <nanos>541800</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:33:35.057482900Z</date>
+  <millis>1681839215057</millis>
+  <nanos>482900</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T17:50:52.576354900Z</date>
+  <millis>1681840252576</millis>
+  <nanos>354900</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:50:52.618464200Z</date>
+  <millis>1681840252618</millis>
+  <nanos>464200</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:50:53.362946300Z</date>
+  <millis>1681840253362</millis>
+  <nanos>946300</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:50:53.363952Z</date>
+  <millis>1681840253363</millis>
+  <nanos>952000</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T17:50:53.390481100Z</date>
+  <millis>1681840253390</millis>
+  <nanos>481100</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T17:50:53.392480500Z</date>
+  <millis>1681840253392</millis>
+  <nanos>480500</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T17:50:53.402013400Z</date>
+  <millis>1681840253402</millis>
+  <nanos>13400</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T17:50:53.402999900Z</date>
+  <millis>1681840253402</millis>
+  <nanos>999900</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T17:50:53.498555100Z</date>
+  <millis>1681840253498</millis>
+  <nanos>555100</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T17:50:53.509622100Z</date>
+  <millis>1681840253509</millis>
+  <nanos>622100</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T18:25:20.318324700Z</date>
+  <millis>1681842320318</millis>
+  <nanos>324700</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T18:25:20.361932Z</date>
+  <millis>1681842320361</millis>
+  <nanos>932000</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T18:25:21.100256100Z</date>
+  <millis>1681842321100</millis>
+  <nanos>256100</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T18:25:21.102264900Z</date>
+  <millis>1681842321102</millis>
+  <nanos>264900</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T18:25:21.132775700Z</date>
+  <millis>1681842321132</millis>
+  <nanos>775700</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T18:25:21.133777100Z</date>
+  <millis>1681842321133</millis>
+  <nanos>777100</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T18:25:21.139264400Z</date>
+  <millis>1681842321139</millis>
+  <nanos>264400</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T18:25:21.140264100Z</date>
+  <millis>1681842321140</millis>
+  <nanos>264100</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T18:25:21.236961Z</date>
+  <millis>1681842321236</millis>
+  <nanos>961000</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T18:25:21.243966600Z</date>
+  <millis>1681842321243</millis>
+  <nanos>966600</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:07:43.373801800Z</date>
+  <millis>1681844863373</millis>
+  <nanos>801800</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:07:43.414884100Z</date>
+  <millis>1681844863414</millis>
+  <nanos>884100</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:07:44.133822800Z</date>
+  <millis>1681844864133</millis>
+  <nanos>822800</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:07:44.136332300Z</date>
+  <millis>1681844864136</millis>
+  <nanos>332300</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:07:44.164082200Z</date>
+  <millis>1681844864164</millis>
+  <nanos>82200</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:07:44.165067900Z</date>
+  <millis>1681844864165</millis>
+  <nanos>67900</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:07:44.170591900Z</date>
+  <millis>1681844864170</millis>
+  <nanos>591900</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:07:44.171590500Z</date>
+  <millis>1681844864171</millis>
+  <nanos>590500</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:07:44.267116700Z</date>
+  <millis>1681844864267</millis>
+  <nanos>116700</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:07:44.274117900Z</date>
+  <millis>1681844864274</millis>
+  <nanos>117900</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:14:24.043239Z</date>
+  <millis>1681845264043</millis>
+  <nanos>239000</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:14:24.094193700Z</date>
+  <millis>1681845264094</millis>
+  <nanos>193700</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:14:24.836512100Z</date>
+  <millis>1681845264836</millis>
+  <nanos>512100</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:14:24.839508900Z</date>
+  <millis>1681845264839</millis>
+  <nanos>508900</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:14:24.876095400Z</date>
+  <millis>1681845264876</millis>
+  <nanos>95400</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:14:24.878096800Z</date>
+  <millis>1681845264878</millis>
+  <nanos>96800</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:14:24.883140900Z</date>
+  <millis>1681845264883</millis>
+  <nanos>140900</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:14:24.884140500Z</date>
+  <millis>1681845264884</millis>
+  <nanos>140500</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:14:24.985965900Z</date>
+  <millis>1681845264985</millis>
+  <nanos>965900</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:14:24.998516Z</date>
+  <millis>1681845264998</millis>
+  <nanos>516000</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:25:38.280061900Z</date>
+  <millis>1681845938280</millis>
+  <nanos>61900</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:25:38.327195100Z</date>
+  <millis>1681845938327</millis>
+  <nanos>195100</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:25:39.059094600Z</date>
+  <millis>1681845939059</millis>
+  <nanos>94600</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:25:39.061088700Z</date>
+  <millis>1681845939061</millis>
+  <nanos>88700</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:25:39.090770800Z</date>
+  <millis>1681845939090</millis>
+  <nanos>770800</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:25:39.093357300Z</date>
+  <millis>1681845939093</millis>
+  <nanos>357300</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:25:39.098287500Z</date>
+  <millis>1681845939098</millis>
+  <nanos>287500</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:25:39.098287500Z</date>
+  <millis>1681845939098</millis>
+  <nanos>287500</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:25:39.192152700Z</date>
+  <millis>1681845939192</millis>
+  <nanos>152700</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:25:39.199163300Z</date>
+  <millis>1681845939199</millis>
+  <nanos>163300</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:26:34.857676300Z</date>
+  <millis>1681845994857</millis>
+  <nanos>676300</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:26:34.896387400Z</date>
+  <millis>1681845994896</millis>
+  <nanos>387400</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:26:35.640518Z</date>
+  <millis>1681845995640</millis>
+  <nanos>518000</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:26:35.650036600Z</date>
+  <millis>1681845995650</millis>
+  <nanos>36600</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:26:35.677281600Z</date>
+  <millis>1681845995677</millis>
+  <nanos>281600</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:26:35.684770500Z</date>
+  <millis>1681845995684</millis>
+  <nanos>770500</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:26:35.694851500Z</date>
+  <millis>1681845995694</millis>
+  <nanos>851500</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:26:35.700847700Z</date>
+  <millis>1681845995700</millis>
+  <nanos>847700</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:26:35.800918Z</date>
+  <millis>1681845995800</millis>
+  <nanos>918000</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:26:35.808425500Z</date>
+  <millis>1681845995808</millis>
+  <nanos>425500</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:28:24.843027500Z</date>
+  <millis>1681846104843</millis>
+  <nanos>27500</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:28:24.887622600Z</date>
+  <millis>1681846104887</millis>
+  <nanos>622600</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:28:25.627437100Z</date>
+  <millis>1681846105627</millis>
+  <nanos>437100</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:28:25.637971100Z</date>
+  <millis>1681846105637</millis>
+  <nanos>971100</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:28:25.665016900Z</date>
+  <millis>1681846105665</millis>
+  <nanos>16900</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:28:25.667016200Z</date>
+  <millis>1681846105667</millis>
+  <nanos>16200</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:28:25.672150Z</date>
+  <millis>1681846105672</millis>
+  <nanos>150000</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:28:25.673591800Z</date>
+  <millis>1681846105673</millis>
+  <nanos>591800</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:28:25.767292400Z</date>
+  <millis>1681846105767</millis>
+  <nanos>292400</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:28:25.774108Z</date>
+  <millis>1681846105774</millis>
+  <nanos>108000</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:29:53.383427800Z</date>
+  <millis>1681846193383</millis>
+  <nanos>427800</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:53.432036500Z</date>
+  <millis>1681846193432</millis>
+  <nanos>36500</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.159943800Z</date>
+  <millis>1681846194159</millis>
+  <nanos>943800</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.164466Z</date>
+  <millis>1681846194164</millis>
+  <nanos>466000</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.192469600Z</date>
+  <millis>1681846194192</millis>
+  <nanos>469600</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.198996800Z</date>
+  <millis>1681846194198</millis>
+  <nanos>996800</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.204494500Z</date>
+  <millis>1681846194204</millis>
+  <nanos>494500</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.206512300Z</date>
+  <millis>1681846194206</millis>
+  <nanos>512300</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.298244900Z</date>
+  <millis>1681846194298</millis>
+  <nanos>244900</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.305712800Z</date>
+  <millis>1681846194305</millis>
+  <nanos>712800</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.310711600Z</date>
+  <millis>1681846194310</millis>
+  <nanos>711600</nanos>
+  <sequence>10</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг провален.</message>
+  <exception>
+    <message>jakarta.xml.bind.JAXBException: Implementation of Jakarta XML Binding-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: org.glassfish.jaxb.runtime.v2.ContextFactory]</message>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>252</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>240</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>381</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>605</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>io.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>29</line>
+    </frame>
+    <frame>
+      <class>Main</class>
+      <method>main</method>
+      <line>54</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.313226800Z</date>
+  <millis>1681846194313</millis>
+  <nanos>226800</nanos>
+  <sequence>11</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.314228700Z</date>
+  <millis>1681846194314</millis>
+  <nanos>228700</nanos>
+  <sequence>12</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>Директория создана.</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.368820500Z</date>
+  <millis>1681846194368</millis>
+  <nanos>820500</nanos>
+  <sequence>13</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:29:54.369822800Z</date>
+  <millis>1681846194369</millis>
+  <nanos>822800</nanos>
+  <sequence>14</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:30:58.769389900Z</date>
+  <millis>1681846258769</millis>
+  <nanos>389900</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:58.820044500Z</date>
+  <millis>1681846258820</millis>
+  <nanos>44500</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.551219Z</date>
+  <millis>1681846259551</millis>
+  <nanos>219000</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.553731100Z</date>
+  <millis>1681846259553</millis>
+  <nanos>731100</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.583280300Z</date>
+  <millis>1681846259583</millis>
+  <nanos>280300</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.585279800Z</date>
+  <millis>1681846259585</millis>
+  <nanos>279800</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.590279600Z</date>
+  <millis>1681846259590</millis>
+  <nanos>279600</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.590279600Z</date>
+  <millis>1681846259590</millis>
+  <nanos>279600</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.687084500Z</date>
+  <millis>1681846259687</millis>
+  <nanos>84500</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.694305600Z</date>
+  <millis>1681846259694</millis>
+  <nanos>305600</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.699306200Z</date>
+  <millis>1681846259699</millis>
+  <nanos>306200</nanos>
+  <sequence>10</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг провален.</message>
+  <exception>
+    <message>jakarta.xml.bind.JAXBException: Implementation of Jakarta XML Binding-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: org.glassfish.jaxb.runtime.v2.ContextFactory]</message>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>252</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>240</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>381</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>605</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>io.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>29</line>
+    </frame>
+    <frame>
+      <class>Main</class>
+      <method>main</method>
+      <line>54</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.702302700Z</date>
+  <millis>1681846259702</millis>
+  <nanos>302700</nanos>
+  <sequence>11</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.743122600Z</date>
+  <millis>1681846259743</millis>
+  <nanos>122600</nanos>
+  <sequence>12</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:30:59.744123900Z</date>
+  <millis>1681846259744</millis>
+  <nanos>123900</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:35:03.442514500Z</date>
+  <millis>1681846503442</millis>
+  <nanos>514500</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:03.491233500Z</date>
+  <millis>1681846503491</millis>
+  <nanos>233500</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.277799300Z</date>
+  <millis>1681846504277</millis>
+  <nanos>799300</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.286333500Z</date>
+  <millis>1681846504286</millis>
+  <nanos>333500</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.318278100Z</date>
+  <millis>1681846504318</millis>
+  <nanos>278100</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.324383200Z</date>
+  <millis>1681846504324</millis>
+  <nanos>383200</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.331476200Z</date>
+  <millis>1681846504331</millis>
+  <nanos>476200</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.332475200Z</date>
+  <millis>1681846504332</millis>
+  <nanos>475200</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.433321700Z</date>
+  <millis>1681846504433</millis>
+  <nanos>321700</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.440321400Z</date>
+  <millis>1681846504440</millis>
+  <nanos>321400</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.446351300Z</date>
+  <millis>1681846504446</millis>
+  <nanos>351300</nanos>
+  <sequence>10</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг провален.</message>
+  <exception>
+    <message>jakarta.xml.bind.JAXBException: Implementation of Jakarta XML Binding-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: org.glassfish.jaxb.runtime.v2.ContextFactory]</message>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>252</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>240</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>381</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>605</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>io.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>29</line>
+    </frame>
+    <frame>
+      <class>Main</class>
+      <method>main</method>
+      <line>54</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.453856300Z</date>
+  <millis>1681846504453</millis>
+  <nanos>856300</nanos>
+  <sequence>11</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.496225400Z</date>
+  <millis>1681846504496</millis>
+  <nanos>225400</nanos>
+  <sequence>12</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:35:04.497225400Z</date>
+  <millis>1681846504497</millis>
+  <nanos>225400</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:38:56.344874100Z</date>
+  <millis>1681846736344</millis>
+  <nanos>874100</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:38:56.388454700Z</date>
+  <millis>1681846736388</millis>
+  <nanos>454700</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:38:57.108437500Z</date>
+  <millis>1681846737108</millis>
+  <nanos>437500</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:38:57.113554200Z</date>
+  <millis>1681846737113</millis>
+  <nanos>554200</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:38:57.141105800Z</date>
+  <millis>1681846737141</millis>
+  <nanos>105800</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:38:57.143621900Z</date>
+  <millis>1681846737143</millis>
+  <nanos>621900</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:38:57.149638Z</date>
+  <millis>1681846737149</millis>
+  <nanos>638000</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:38:57.150623400Z</date>
+  <millis>1681846737150</millis>
+  <nanos>623400</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:38:57.250346800Z</date>
+  <millis>1681846737250</millis>
+  <nanos>346800</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:38:57.257680Z</date>
+  <millis>1681846737257</millis>
+  <nanos>680000</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:40:18.626841400Z</date>
+  <millis>1681846818626</millis>
+  <nanos>841400</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:18.673731Z</date>
+  <millis>1681846818673</millis>
+  <nanos>731000</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.402308700Z</date>
+  <millis>1681846819402</millis>
+  <nanos>308700</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.406777100Z</date>
+  <millis>1681846819406</millis>
+  <nanos>777100</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.434322500Z</date>
+  <millis>1681846819434</millis>
+  <nanos>322500</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.436330100Z</date>
+  <millis>1681846819436</millis>
+  <nanos>330100</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.446811400Z</date>
+  <millis>1681846819446</millis>
+  <nanos>811400</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.447800100Z</date>
+  <millis>1681846819447</millis>
+  <nanos>800100</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.549821800Z</date>
+  <millis>1681846819549</millis>
+  <nanos>821800</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.557338900Z</date>
+  <millis>1681846819557</millis>
+  <nanos>338900</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.561341500Z</date>
+  <millis>1681846819561</millis>
+  <nanos>341500</nanos>
+  <sequence>10</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг провален.</message>
+  <exception>
+    <message>jakarta.xml.bind.JAXBException: Implementation of Jakarta XML Binding-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: org.glassfish.jaxb.runtime.v2.ContextFactory]</message>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>252</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>240</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>381</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>605</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>io.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>29</line>
+    </frame>
+    <frame>
+      <class>Main</class>
+      <method>main</method>
+      <line>54</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.564775400Z</date>
+  <millis>1681846819564</millis>
+  <nanos>775400</nanos>
+  <sequence>11</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.604786Z</date>
+  <millis>1681846819604</millis>
+  <nanos>786000</nanos>
+  <sequence>12</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:40:19.604786Z</date>
+  <millis>1681846819604</millis>
+  <nanos>786000</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:42:34.606394600Z</date>
+  <millis>1681846954606</millis>
+  <nanos>394600</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:34.647710900Z</date>
+  <millis>1681846954647</millis>
+  <nanos>710900</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.361319500Z</date>
+  <millis>1681846955361</millis>
+  <nanos>319500</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.365556200Z</date>
+  <millis>1681846955365</millis>
+  <nanos>556200</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.392104300Z</date>
+  <millis>1681846955392</millis>
+  <nanos>104300</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.394111200Z</date>
+  <millis>1681846955394</millis>
+  <nanos>111200</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.400111100Z</date>
+  <millis>1681846955400</millis>
+  <nanos>111100</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.401108100Z</date>
+  <millis>1681846955401</millis>
+  <nanos>108100</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.498253500Z</date>
+  <millis>1681846955498</millis>
+  <nanos>253500</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.505292400Z</date>
+  <millis>1681846955505</millis>
+  <nanos>292400</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.510295700Z</date>
+  <millis>1681846955510</millis>
+  <nanos>295700</nanos>
+  <sequence>10</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг провален.</message>
+  <exception>
+    <message>jakarta.xml.bind.JAXBException: Implementation of Jakarta XML Binding-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: org.glassfish.jaxb.runtime.v2.ContextFactory]</message>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>252</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>240</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>381</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>605</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>io.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>29</line>
+    </frame>
+    <frame>
+      <class>Main</class>
+      <method>main</method>
+      <line>54</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.513535700Z</date>
+  <millis>1681846955513</millis>
+  <nanos>535700</nanos>
+  <sequence>11</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.553649800Z</date>
+  <millis>1681846955553</millis>
+  <nanos>649800</nanos>
+  <sequence>12</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:42:35.554649Z</date>
+  <millis>1681846955554</millis>
+  <nanos>649000</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:47:49.179507700Z</date>
+  <millis>1681847269179</millis>
+  <nanos>507700</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:47:49.228219Z</date>
+  <millis>1681847269228</millis>
+  <nanos>219000</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:47:49.989396800Z</date>
+  <millis>1681847269989</millis>
+  <nanos>396800</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:47:50.000926100Z</date>
+  <millis>1681847270000</millis>
+  <nanos>926100</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:47:50.031488100Z</date>
+  <millis>1681847270031</millis>
+  <nanos>488100</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:47:50.038012700Z</date>
+  <millis>1681847270038</millis>
+  <nanos>12700</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:47:50.044538700Z</date>
+  <millis>1681847270044</millis>
+  <nanos>538700</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:47:50.045537400Z</date>
+  <millis>1681847270045</millis>
+  <nanos>537400</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:47:50.151292900Z</date>
+  <millis>1681847270151</millis>
+  <nanos>292900</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:47:50.160333Z</date>
+  <millis>1681847270160</millis>
+  <nanos>333000</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:49:42.452526900Z</date>
+  <millis>1681847382452</millis>
+  <nanos>526900</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:49:42.493552100Z</date>
+  <millis>1681847382493</millis>
+  <nanos>552100</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:49:43.196884500Z</date>
+  <millis>1681847383196</millis>
+  <nanos>884500</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:49:43.208407600Z</date>
+  <millis>1681847383208</millis>
+  <nanos>407600</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:49:43.240163Z</date>
+  <millis>1681847383240</millis>
+  <nanos>163000</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:49:43.242164100Z</date>
+  <millis>1681847383242</millis>
+  <nanos>164100</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:49:43.247217800Z</date>
+  <millis>1681847383247</millis>
+  <nanos>217800</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:49:43.249209800Z</date>
+  <millis>1681847383249</millis>
+  <nanos>209800</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:49:43.346447600Z</date>
+  <millis>1681847383346</millis>
+  <nanos>447600</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:49:43.353491100Z</date>
+  <millis>1681847383353</millis>
+  <nanos>491100</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:52:28.050342800Z</date>
+  <millis>1681847548050</millis>
+  <nanos>342800</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:28.104655800Z</date>
+  <millis>1681847548104</millis>
+  <nanos>655800</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:28.870422800Z</date>
+  <millis>1681847548870</millis>
+  <nanos>422800</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:28.875825400Z</date>
+  <millis>1681847548875</millis>
+  <nanos>825400</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:28.903891600Z</date>
+  <millis>1681847548903</millis>
+  <nanos>891600</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:28.906891900Z</date>
+  <millis>1681847548906</millis>
+  <nanos>891900</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:28.916407200Z</date>
+  <millis>1681847548916</millis>
+  <nanos>407200</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:28.918407900Z</date>
+  <millis>1681847548918</millis>
+  <nanos>407900</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:29.027396100Z</date>
+  <millis>1681847549027</millis>
+  <nanos>396100</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:29.033647Z</date>
+  <millis>1681847549033</millis>
+  <nanos>647000</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:29.037630900Z</date>
+  <millis>1681847549037</millis>
+  <nanos>630900</nanos>
+  <sequence>10</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг провален.</message>
+  <exception>
+    <message>jakarta.xml.bind.JAXBException: Implementation of Jakarta XML Binding-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: org.glassfish.jaxb.runtime.v2.ContextFactory]</message>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>252</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>240</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>381</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>605</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>io.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>29</line>
+    </frame>
+    <frame>
+      <class>Main</class>
+      <method>main</method>
+      <line>54</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-04-18T19:52:29.045165900Z</date>
+  <millis>1681847549045</millis>
+  <nanos>165900</nanos>
+  <sequence>11</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:29.089255900Z</date>
+  <millis>1681847549089</millis>
+  <nanos>255900</nanos>
+  <sequence>12</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:52:29.089255900Z</date>
+  <millis>1681847549089</millis>
+  <nanos>255900</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:53:48.322795500Z</date>
+  <millis>1681847628322</millis>
+  <nanos>795500</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:48.372438400Z</date>
+  <millis>1681847628372</millis>
+  <nanos>438400</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.170669100Z</date>
+  <millis>1681847629170</millis>
+  <nanos>669100</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.173193800Z</date>
+  <millis>1681847629173</millis>
+  <nanos>193800</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.205761500Z</date>
+  <millis>1681847629205</millis>
+  <nanos>761500</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.207753Z</date>
+  <millis>1681847629207</millis>
+  <nanos>753000</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.213288400Z</date>
+  <millis>1681847629213</millis>
+  <nanos>288400</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.214279900Z</date>
+  <millis>1681847629214</millis>
+  <nanos>279900</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.316553200Z</date>
+  <millis>1681847629316</millis>
+  <nanos>553200</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.330598100Z</date>
+  <millis>1681847629330</millis>
+  <nanos>598100</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.335141800Z</date>
+  <millis>1681847629335</millis>
+  <nanos>141800</nanos>
+  <sequence>10</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг провален.</message>
+  <exception>
+    <message>jakarta.xml.bind.JAXBException: Implementation of Jakarta XML Binding-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: org.glassfish.jaxb.runtime.v2.ContextFactory]</message>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>252</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>240</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>381</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>605</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>io.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>31</line>
+    </frame>
+    <frame>
+      <class>Main</class>
+      <method>main</method>
+      <line>54</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.337143500Z</date>
+  <millis>1681847629337</millis>
+  <nanos>143500</nanos>
+  <sequence>11</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.378564Z</date>
+  <millis>1681847629378</millis>
+  <nanos>564000</nanos>
+  <sequence>12</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:53:49.378564Z</date>
+  <millis>1681847629378</millis>
+  <nanos>564000</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T19:56:39.900710Z</date>
+  <millis>1681847799900</millis>
+  <nanos>710000</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:39.950289Z</date>
+  <millis>1681847799950</millis>
+  <nanos>289000</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:40.758751100Z</date>
+  <millis>1681847800758</millis>
+  <nanos>751100</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:40.775326200Z</date>
+  <millis>1681847800775</millis>
+  <nanos>326200</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:40.807418200Z</date>
+  <millis>1681847800807</millis>
+  <nanos>418200</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:40.810417200Z</date>
+  <millis>1681847800810</millis>
+  <nanos>417200</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:40.817933800Z</date>
+  <millis>1681847800817</millis>
+  <nanos>933800</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:40.824457400Z</date>
+  <millis>1681847800824</millis>
+  <nanos>457400</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:40.921588800Z</date>
+  <millis>1681847800921</millis>
+  <nanos>588800</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:40.936623400Z</date>
+  <millis>1681847800936</millis>
+  <nanos>623400</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:41.054877Z</date>
+  <millis>1681847801054</millis>
+  <nanos>877000</nanos>
+  <sequence>10</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Директория создана.</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:41.066406Z</date>
+  <millis>1681847801066</millis>
+  <nanos>406000</nanos>
+  <sequence>11</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:41.073909700Z</date>
+  <millis>1681847801073</millis>
+  <nanos>909700</nanos>
+  <sequence>12</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись...</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:41.103470400Z</date>
+  <millis>1681847801103</millis>
+  <nanos>470400</nanos>
+  <sequence>13</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T19:56:41.103470400Z</date>
+  <millis>1681847801103</millis>
+  <nanos>470400</nanos>
+  <sequence>14</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-18T20:04:55.269492800Z</date>
+  <millis>1681848295269</millis>
+  <nanos>492800</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение запущено, конфигурация логера загружена.</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:55.312662400Z</date>
+  <millis>1681848295312</millis>
+  <nanos>662400</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.054723100Z</date>
+  <millis>1681848296054</millis>
+  <nanos>723100</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.057723500Z</date>
+  <millis>1681848296057</millis>
+  <nanos>723500</nanos>
+  <sequence>3</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение...</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.084255900Z</date>
+  <millis>1681848296084</millis>
+  <nanos>255900</nanos>
+  <sequence>4</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Excel чтение завершено.</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.085255800Z</date>
+  <millis>1681848296085</millis>
+  <nanos>255800</nanos>
+  <sequence>5</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики...</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.091255700Z</date>
+  <millis>1681848296091</millis>
+  <nanos>255700</nanos>
+  <sequence>6</sequence>
+  <logger>util.StatisticsUtil</logger>
+  <level>INFO</level>
+  <class>util.StatisticsUtil</class>
+  <method>createStatistics</method>
+  <thread>1</thread>
+  <message>Сбор статистики для 4 объектов завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.091255700Z</date>
+  <millis>1681848296091</millis>
+  <nanos>255700</nanos>
+  <sequence>7</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись...</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.187546200Z</date>
+  <millis>1681848296187</millis>
+  <nanos>546200</nanos>
+  <sequence>8</sequence>
+  <logger>io.XlsWriter</logger>
+  <level>INFO</level>
+  <class>io.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.193580900Z</date>
+  <millis>1681848296193</millis>
+  <nanos>580900</nanos>
+  <sequence>9</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг...</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.306920400Z</date>
+  <millis>1681848296306</millis>
+  <nanos>920400</nanos>
+  <sequence>10</sequence>
+  <logger>io.XmlWriter</logger>
+  <level>INFO</level>
+  <class>io.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML маршаллинг завершен.</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.307916600Z</date>
+  <millis>1681848296307</millis>
+  <nanos>916600</nanos>
+  <sequence>11</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись...</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.341154500Z</date>
+  <millis>1681848296341</millis>
+  <nanos>154500</nanos>
+  <sequence>12</sequence>
+  <logger>io.JsonWriter</logger>
+  <level>INFO</level>
+  <class>io.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON запись завершена.</message>
+</record>
+<record>
+  <date>2023-04-18T20:04:56.342660800Z</date>
+  <millis>1681848296342</millis>
+  <nanos>660800</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Приложение завершило свою работу.</message>
+</record>
+</log>

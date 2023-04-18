@@ -1,0 +1,51 @@
+[
+  {
+    "universityId": "0005-high",
+    "universityName": "Самарский Медицинский Институт",
+    "universityShortName": "СМИ",
+    "foundation": 1936,
+    "profile": "MEDICINE"
+  },
+  {
+    "universityId": "0003-high",
+    "universityName": "Московский Государственный Медицинский Университет",
+    "universityShortName": "МГМУ",
+    "foundation": 1960,
+    "profile": "MEDICINE"
+  },
+  {
+    "universityId": "0002-high",
+    "universityName": "Московский Придуманный Институт",
+    "universityShortName": "МПИ",
+    "foundation": 1987,
+    "profile": "PHYSICS"
+  },
+  {
+    "universityId": "0007-high",
+    "universityName": "Казанский Университет Вычислений",
+    "universityShortName": "КУВ",
+    "foundation": 1989,
+    "profile": "MATHEMATICS"
+  },
+  {
+    "universityId": "0001-high",
+    "universityName": "Московский Выдуманный Университет",
+    "universityShortName": "МВУ",
+    "foundation": 1990,
+    "profile": "PHYSICS"
+  },
+  {
+    "universityId": "0004-high",
+    "universityName": "Тамбовский Университет Медицины",
+    "universityShortName": "ТУМ",
+    "foundation": 1995,
+    "profile": "MEDICINE"
+  },
+  {
+    "universityId": "0006-high",
+    "universityName": "Воронежский Литературно-Переводческий Университет",
+    "universityShortName": "ВЛПУ",
+    "foundation": 2003,
+    "profile": "LINGUISTICS"
+  }
+]

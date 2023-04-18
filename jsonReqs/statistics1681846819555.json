@@ -1,0 +1,30 @@
+[
+  {
+    "studyProfile": "LINGUISTICS",
+    "avgExamScore": 0.0,
+    "numberOfStudentsByStudyProfile": 0,
+    "numberOfUniversitiesByStudyProfile": 1,
+    "universityNames": "Воронежский Литературно-Переводческий Университет;"
+  },
+  {
+    "studyProfile": "PHYSICS",
+    "avgExamScore": 4.54,
+    "numberOfStudentsByStudyProfile": 8,
+    "numberOfUniversitiesByStudyProfile": 2,
+    "universityNames": "Московский Придуманный Институт;Московский Выдуманный Университет;"
+  },
+  {
+    "studyProfile": "MEDICINE",
+    "avgExamScore": 4.33,
+    "numberOfStudentsByStudyProfile": 3,
+    "numberOfUniversitiesByStudyProfile": 3,
+    "universityNames": "Самарский Медицинский Институт;Московский Государственный Медицинский Университет;Тамбовский Университет Медицины;"
+  },
+  {
+    "studyProfile": "MATHEMATICS",
+    "avgExamScore": 0.0,
+    "numberOfStudentsByStudyProfile": 0,
+    "numberOfUniversitiesByStudyProfile": 1,
+    "universityNames": "Казанский Университет Вычислений;"
+  }
+]

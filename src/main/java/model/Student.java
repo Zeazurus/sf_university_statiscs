@@ -1,16 +1,29 @@
 package model;
 
-public class Student {
-    String fullName, universityId;
-    int currentCourseNumber;
-    float avgExamScore;
+import com.google.gson.annotations.SerializedName;
+import jakarta.xml.bind.annotation.XmlAccessType;
+import jakarta.xml.bind.annotation.XmlAccessorType;
+import jakarta.xml.bind.annotation.XmlElement;
+import jakarta.xml.bind.annotation.XmlTransient;
 
-    public Student(String fullName, String universityId, int currentCourseNumber, float avgExamScore) {
-        this.fullName = fullName;
-        this.universityId = universityId;
-        this.currentCourseNumber = currentCourseNumber;
-        this.avgExamScore = avgExamScore;
-    }
+@XmlAccessorType(XmlAccessType.FIELD)
+public class Student {
+
+    @SerializedName("studentName")
+    @XmlElement(name = "studentName")
+    private String fullName;
+
+    @SerializedName("universityId")
+    @XmlElement(name = "universityId")
+    private String universityId;
+
+    @SerializedName("course")
+    @XmlTransient
+    private int currentCourseNumber;
+
+    @SerializedName("avgScore")
+    @XmlElement(name = "avgScore")
+    private float avgExamScore;
 
     public Student() {
 
